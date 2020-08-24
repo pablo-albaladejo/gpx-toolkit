@@ -1,0 +1,27 @@
+{
+  "name": "gpx-toolkit",
+  "version": "0.0.1",
+  "description": "GPX toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-albaladejo/gpx-toolkit.git"
+  },
+  "keywords": [
+    "gpx",
+    "tcx",
+    "fit",
+    "stream",
+    "strava",
+    "wikilock"
+  ],
+  "author": "Pablo Albaladejo Mestre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo-albaladejo/gpx-toolkit/issues"
+  },
+  "homepage": "https://github.com/pablo-albaladejo/gpx-toolkit#readme"
+}

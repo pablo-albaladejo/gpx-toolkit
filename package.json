@@ -1,6 +1,6 @@
 {
   "name": "gpx-toolkit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GPX toolkit",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "gpx",
     "tcx",
     "fit",
-    "stream",
+    "streams",
     "strava",
     "wikilock"
   ],
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/pablo-albaladejo/gpx-toolkit/issues"
   },
-  "homepage": "https://github.com/pablo-albaladejo/gpx-toolkit#readme"
+  "homepage": "https://github.com/pablo-albaladejo/gpx-toolkit#readme",
+  "dependencies": {
+    "xmlbuilder": "^15.1.1"
+  }
 }
